@@ -7,6 +7,7 @@
 
 # c
 /c/**/test-framework
+/c/**/makefile
 
 # dart
 /dart/**/.dart_tool
