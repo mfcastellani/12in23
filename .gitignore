@@ -1,0 +1,38 @@
+# common
+**/.exercism
+**/HELP.md
+**/.idea
+**/HINTS.md
+**/.DS_Store
+
+# dart
+/dart/**/.dart_tool
+/dart/**/pubspec.lock
+
+# haskell
+/haskell/**/.stack-work
+/haskell/**/dist-newstyle
+/haskell/**/stack.yaml.lock
+
+# javascript
+/javascript/**/.eslintrc
+/javascript/**/.npmrc
+/javascript/**/node_modules
+/javascript/**/package-lock.json
+
+# ocaml
+/ocaml/**/_build
+
+# python
+/python/**/.pytest_cache
+/python/**/__pycache__
+
+# rust
+/rust/**/target
+/rust/**/Cargo.lock
+
+# swift
+/swift/**/.build
+/swift/**/Packages
+/swift/**/*.xcodeproj
+/swift/**/xcuserdata
