@@ -5,6 +5,9 @@
 **/HINTS.md
 **/.DS_Store
 
+# c
+/c/**/test-framework
+
 # dart
 /dart/**/.dart_tool
 /dart/**/pubspec.lock
